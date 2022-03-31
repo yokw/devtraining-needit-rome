@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>The NeedIt Experience</name>
+        <order>50</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 08:06:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea55bd952fee4510264052492799b6ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ea55bd952fee4510264052492799b6ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 08:06:22</sys_updated_on>
+        <table/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_ui_module_ea55bd952fee4510264052492799b6ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>The NeedIt Experience</name><order>50</order><path/><path_relative_to_root>false</path_relative_to_root><roles/><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-29 08:06:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea55bd952fee4510264052492799b6ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>The NeedIt Experience</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_ea55bd952fee4510264052492799b6ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-29 08:06:22</sys_updated_on><table/><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-711682308</payload_hash>
+        <record_name>The NeedIt Experience</record_name>
+        <reverted_from/>
+        <source>ebd480ab2fd20110264052492799b6ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 08:06:22</sys_created_on>
+        <sys_id>10a5b1d12fae4510264052492799b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fd4b62b420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 08:06:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>18a5b1d1beae4510b2803d907a37bac0</update_guid>
+        <update_guid_history>18a5b1d1beae4510b2803d907a37bac0:-711682308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 08:07:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0d8868668fa240b8841f5a3895810d39</sys_id>
+        <sys_metadata>ea55bd952fee4510264052492799b6ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ea55bd952fee4510264052492799b6ba</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ea55bd952fee4510264052492799b6ba">10a5b1d12fae4510264052492799b6c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 08:07:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
